@@ -2,7 +2,7 @@
 title: "Chapter 18"
 author: "Remco Ploeg"
 date: "2023-03-03"
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
